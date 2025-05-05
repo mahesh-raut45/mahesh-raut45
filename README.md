@@ -7,7 +7,7 @@
 - I love building scalable web and mobile applications, exploring new technologies, and continuously improving my skills. Currently, I’m working on enhancing my projects with Redux Toolkit and adding a Spring     
    Boot backend to my React applications.
 
-- 🔭 I’m currently working on [FoodKing](https://github.com/mahesh-raut45/FoodKing-Restaurant-Web-App)
+- 🔭 I’m currently working on [FoodKing](https://food-king-restaurant-web-app.vercel.app/)
 - 🔭 Completed Project [Busy Buy](https://busy-buy-gamma.vercel.app/)
 
 - 🌱 I’m currently learning **Sping Boot, FullStack development from Coding Ninjas**
